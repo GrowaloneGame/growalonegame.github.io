@@ -1,0 +1,7 @@
+server_available|0
+maint_msg|Unfortunately, the Growalone servers have closed. Thank you for your support!
+maint_link|`1https://discord.gg/RyTy5Tr
+server_ip|9
+server_port|1
+server_appname|GrowaloneMultiplayer3219842
+metadata|MyMetadataGoesHere

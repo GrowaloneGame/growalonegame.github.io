@@ -1,0 +1,7 @@
+server_available|1
+maint_msg|The server is on maintenance, please wait.
+maint_link|`1https://discord.gg/RyTy5Tr
+server_ip|135.125.233.241
+server_port|25567
+server_appname|GrowaloneMultiplayer3219842
+metadata|MyMetadataGoesHere

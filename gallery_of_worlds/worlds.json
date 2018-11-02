@@ -2,11 +2,12 @@
     "______comment_______":"range:-1000000000 to 1000000000",
     "worlds":[
         {
-            "name":"GrowTech Pharma",
-            "uid":-765035736,
-            "thumb":"thumb.png",
-            "wfile":"world.gaw",
-            "creator":"iProgramInCpp"
+            "name": "GrowTech Pharma",
+            "filename": "GrowTechPharma",
+            "uid": -765035736,
+            "thumb": "thumb.png",
+            "wfile": "world.gaw",
+            "creator": "iProgramInCpp"
         }
     ]
 }

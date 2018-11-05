@@ -1,0 +1,3 @@
+[LauncherStatus]
+game_version|1.0.0_3
+game_download_status|available

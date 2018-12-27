@@ -11,7 +11,9 @@
 </head>
 <body>
 <div class="centered">
-<div>Hello! This is a port of Javidx9's Platform Game made using his Console Game Engine.</div>
+<div>Hello! This is a port of Javidx9's Platform Game made using his Console Game Engine.
+	
+	Controls: Q-Force Up, S-Force Down, W-Jump, A&D - Move</div>
 <br>
 <br>
 <canvas id="gc" width="640" height="480">Can't load canvas. Please update your browser</canvas>
@@ -161,23 +163,23 @@ SetTile = function(x, y, t){
 var KeyDnPressed, KeyLtPressed, KeyRtPressed, KeySpPressed, KeyUpPressed;
 
 window.onkeydown=function(e) {
- if(e.which==38)
+ if(e.which==81)
  {
   KeyUpPressed=true;
  }
- if(e.which==32)
+ if(e.which==87)
  {
   KeySpPressed=true;
  }
- if(e.which==40)
+ if(e.which==83)
  {
   KeyDnPressed=true;
  }
- if(e.which==37)
+ if(e.which==65)
  {
   KeyLtPressed=true;
  }
- if(e.which==39)
+ if(e.which==69)
  {
   KeyRtPressed=true;
  }

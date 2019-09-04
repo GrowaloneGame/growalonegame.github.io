@@ -8,7 +8,7 @@
             "thumb":"thumb.png",
             "wfile":"world.gaw",
             "creator":"iProgramInCpp",
-            "public":true
+            "public":"true"
         },
         {
             "name":"Secret Dungeon",
@@ -17,7 +17,7 @@
             "thumb":"thumb.png",
             "wfile":"world.gaw",
             "creator":"iProgramInCpp"
-            "public":true
+            "public":"true"
         },
         {
             "name":"Boulder Flee",
@@ -26,7 +26,7 @@
             "thumb":"thumb.png",
             "wfile":"world.gaw",
             "creator":"iProgramInCpp"
-            "public":false
+            "public":"false"
         }
     ]
 }

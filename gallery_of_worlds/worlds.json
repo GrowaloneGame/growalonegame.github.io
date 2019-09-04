@@ -16,7 +16,7 @@
             "uid":272859369,
             "thumb":"thumb.png",
             "wfile":"world.gaw",
-            "creator":"iProgramInCpp"
+            "creator":"iProgramInCpp",
             "public":"true"
         },
         {
@@ -25,7 +25,7 @@
             "uid":-494985005,
             "thumb":"thumb.png",
             "wfile":"world.gaw",
-            "creator":"iProgramInCpp"
+            "creator":"iProgramInCpp",
             "public":"false"
         }
     ]

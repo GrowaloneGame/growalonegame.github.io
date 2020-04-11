@@ -27,6 +27,15 @@
             "wfile":"world.gaw",
             "creator":"iProgramInCpp",
             "public":"true"
+        },
+        {
+            "name":"PoleMadness",
+            "filename":"PoleMadness",
+            "uid":356862167,
+            "thumb":"thumb.png",
+            "wfile":"world.gaw",
+            "creator":"iProgramInCpp",
+            "public":"true"
         }
     ]
 }

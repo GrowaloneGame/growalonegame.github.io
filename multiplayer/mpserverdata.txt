@@ -2,6 +2,6 @@ server_available|0
 maint_msg|The server is down right now. We are trying our hardest to recover.
 maint_link|https://twitter.com/growalonegame/status/1256829282292203520`w and `1https://discord.gg/RyTy5Tr
 server_ip|255.255.255.255
-server_port|4294967295
+server_port|1
 server_appname|GrowaloneMultiplayer3219842
 metadata|MyMetadataGoesHere

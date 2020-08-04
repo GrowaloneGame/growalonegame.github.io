@@ -1,7 +1,7 @@
-server_available|1
-maint_msg|Is that... a hint of light?!
-maint_link|https://twitter.com/growalonegame/status/1256829282292203520`w and `1https://discord.gg/RyTy5Tr
-server_ip|34.72.123.18
-server_port|25567
+server_available|0
+maint_msg|Unfortunately, the Growalone servers have closed. Thank you for your support!
+maint_link|`1https://discord.gg/RyTy5Tr
+server_ip|9
+server_port|1
 server_appname|GrowaloneMultiplayer3219842
 metadata|MyMetadataGoesHere

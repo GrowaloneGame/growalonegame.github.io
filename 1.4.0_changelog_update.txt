@@ -1,0 +1,10 @@
+1.4.0 Changelogs (not final, will change)
+
+- Added Dash Blocks, can make you run very fast
+- Added several paintings
+- Added Cannon Box Hat, which allows you to shoot bullets which can kill zombies
+- Added Bullet Hat which allows you to float and break blocks (you will use up 1 bullet hat item by the way)
+- Added blocks that move slightly over time, pulse blocks (used for now only in the Mystery Block)
+- Removed that white pixel in the Thinner Log's texture (t'was about time!)
+- Fixed a few graphical bugs regarding drawing inventory items
+- Revamped tutorial

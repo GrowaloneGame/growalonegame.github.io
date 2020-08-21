@@ -7,4 +7,5 @@
 - Added blocks that move slightly over time, pulse blocks (used for now only in the Mystery Block)
 - Removed that white pixel in the Thinner Log's texture (t'was about time!)
 - Fixed a few graphical bugs regarding drawing inventory items
+- Fixed a weird graphical bug where the hotbar's background disappears when inside a cannon
 - Revamped tutorial

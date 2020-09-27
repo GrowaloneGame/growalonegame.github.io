@@ -5,9 +5,17 @@
                 <meta property="og:description" content="The 2D platformer sandbox game that allows you to do whatever you please. Play today, don't miss out! You can also play with friends, too." />
                 <meta property="og:url" content="http://growalonegame.com" />
                 <meta id="theme-meta" name="theme-color" content="#00af00">
-		<script type="text/javascript" src="bg/bg.js"></script>
                 <title>Growalone - a game by iProgramInCpp</title>
 		<style>
+			@include keyframes(scroll) {
+				0% {
+					transform: translate3d(0, 0, 0);
+				}
+				100% {
+					transform: translate3d(-320px, 0, 0);
+				}
+			}
+			
 			body {
 				font-family: Roboto,Sans-Serif !important;
 				font-size: 1.05em !important;
@@ -54,12 +62,22 @@
 			a.lolz:hover, a.lolz:active {
 				color: cyan;
 			}
+			.mainanim {
+				background-color: #333333;
+				background-image: url("/bg/water.png");
+				background-position: center center;
+				background-size: 500px;
+				z-index: 1;
+				width: 100%;
+				height: 100%;
+				top: 0px;
+				left: 0px;
+				position: absolute;
+				@include animation(scroll 5s linear infinite);
+			}
 		</style>
-		<script>
-
-		</script>
 	</head>
-	<body style="background-color: #333333;">
+	<body style="background-color: #333333;" class="mainanim">
 		<center>
 			<img src="Growalone_logo.png" alt="Growalone logo">
 		</center>

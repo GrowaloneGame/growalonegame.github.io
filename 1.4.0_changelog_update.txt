@@ -9,3 +9,12 @@
 - Fixed a few graphical bugs regarding drawing inventory items
 - Fixed a weird graphical bug where the hotbar's background disappears when inside a cannon
 - Revamped tutorial
+- Fixed a bunch of multiplayer bugs, like sending movement packet once a frame when walk-punching
+- Revamped world renderer (WIP)
+- Revamped tile touch handler (WIP)
+- Revamped world camera, transitions should be smoother now
+- Revamped item data system, the old one with the ------ separating items is unused now
+- Revamped some tile textures (WIP) and made them use the "Spritesheet" render type which just allows me to load 1 spritesheet for more than 1 tile. (This was done for the unused paintings too)
+- Added scaling to message boxes, input boxes, custom dialog boxes (WIP), console (WIP) and inventory (WIP)
+- Revamped player renderer (WIP)
+- Breaking blocks has been revamped, now it works based on hits instead of time spent punching; also revamped crack textures

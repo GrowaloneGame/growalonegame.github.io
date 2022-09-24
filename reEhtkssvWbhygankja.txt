@@ -1,5 +1,5 @@
-Sorry, but the ReGrowtopia client is out of commission right now.
-It will be removed when Version 1.05 is released, ETA October 2022.
+Sorry, but this version of the ReGrowtopia client is out of commission.
+Please download Version 1.05, at http://regrowtopia.com
 -iProgramInCpp
 
 Discord Server: `5https://discord.gg/3dRsfYYFAT``
